@@ -23,8 +23,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:SUMAN.G
+### Register Number:23014256
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
